@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "//redhotchel.github.io/social-site/static/css/main.fa8c41f1.chunk.css",
+    "main.js": "//redhotchel.github.io/social-site/static/js/main.bd7bd0d2.chunk.js",
+    "main.js.map": "//redhotchel.github.io/social-site/static/js/main.bd7bd0d2.chunk.js.map",
+    "runtime~main.js": "//redhotchel.github.io/social-site/static/js/runtime~main.5c99cb51.js",
+    "runtime~main.js.map": "//redhotchel.github.io/social-site/static/js/runtime~main.5c99cb51.js.map",
+    "static/js/2.e0be956d.chunk.js": "//redhotchel.github.io/social-site/static/js/2.e0be956d.chunk.js",
+    "static/js/2.e0be956d.chunk.js.map": "//redhotchel.github.io/social-site/static/js/2.e0be956d.chunk.js.map",
+    "static/css/3.71f71379.chunk.css": "//redhotchel.github.io/social-site/static/css/3.71f71379.chunk.css",
+    "static/js/3.223406bc.chunk.js": "//redhotchel.github.io/social-site/static/js/3.223406bc.chunk.js",
+    "static/js/3.223406bc.chunk.js.map": "//redhotchel.github.io/social-site/static/js/3.223406bc.chunk.js.map",
+    "static/css/4.9024c852.chunk.css": "//redhotchel.github.io/social-site/static/css/4.9024c852.chunk.css",
+    "static/js/4.4cb46c02.chunk.js": "//redhotchel.github.io/social-site/static/js/4.4cb46c02.chunk.js",
+    "static/js/4.4cb46c02.chunk.js.map": "//redhotchel.github.io/social-site/static/js/4.4cb46c02.chunk.js.map",
+    "index.html": "//redhotchel.github.io/social-site/index.html",
+    "precache-manifest.3845a51784e584f66b74fbee6705949d.js": "//redhotchel.github.io/social-site/precache-manifest.3845a51784e584f66b74fbee6705949d.js",
+    "service-worker.js": "//redhotchel.github.io/social-site/service-worker.js",
+    "static/css/3.71f71379.chunk.css.map": "//redhotchel.github.io/social-site/static/css/3.71f71379.chunk.css.map",
+    "static/css/4.9024c852.chunk.css.map": "//redhotchel.github.io/social-site/static/css/4.9024c852.chunk.css.map",
+    "static/css/main.fa8c41f1.chunk.css.map": "//redhotchel.github.io/social-site/static/css/main.fa8c41f1.chunk.css.map",
+    "static/media/preloader.svg": "//redhotchel.github.io/social-site/static/media/preloader.6e7c9db7.svg",
+    "static/media/user.png": "//redhotchel.github.io/social-site/static/media/user.8b1dbb1f.png"
+  }
+}
